@@ -80,11 +80,11 @@ App will be available at: http://localhost:8501
 
 ## 📝 Usage Guide
 
-1.Open the chat interface (localhost:8501).
-2️. Start a conversation (e.g., "I want running shoes for $100").
-3️. AI remembers your preferences over time.
-4️. See personalized product recommendations in the sidebar.
-5️. AI refines recommendations as you keep chatting.
+- Open the chat interface (localhost:8501).
+- Start a conversation (e.g., "I want running shoes for $100").
+- AI remembers your preferences over time.
+- See personalized product recommendations in the sidebar.
+- AI refines recommendations as you keep chatting.
 
 ---
 

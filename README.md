@@ -198,7 +198,7 @@ export OPENAI_API_KEY=your_key_here
 - Check for API errors in the terminal.
 - Ensure port 8000 is free.
 
-### 3️. UI Not Updating
+### 3. UI Not Updating
 
 - Restart Streamlit:
 ```sh

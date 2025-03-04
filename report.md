@@ -64,7 +64,6 @@ Here’s what I used to build this:
 ## Future Improvements
 
 If I had more time, I’d love to add: 
-- Clarifying Questions – If the AI isn’t sure what you want, it could ask instead of guessing.
 - A Bigger Product Database – More categories and brands would make the recommendations better.
 - Persistent User Profiles – Right now, preferences reset when you restart. Saving them would make the AI even smarter.
 

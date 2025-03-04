@@ -157,10 +157,12 @@ def get_ai_response(user_id, user_message):
 
         ai_prompt = f"""
         The user did not provide enough details for a specific product match.
+        You are an AI shopping assistant with a friendly and engaging personality. 
+        You remember previous conversations and continuously refine recommendations based on user preferences.
 
         **STRICT RULES:**
+        - DO NOT use emojis or unnecessary symbols.
         - DO NOT suggest any product that is NOT in the list below.
-        - You must only pick products from the available list.
 
         **Available Products (MUST CHOOSE FROM THIS LIST ONLY):**
         {json.dumps(product_data, indent=2)}
@@ -191,6 +193,12 @@ def get_ai_response(user_id, user_message):
         - 📝 **Description:** {alternative_products[2]['short_description']}  
 
         **Would you like one of these, or do you have something more specific in mind?**
+
+        **Follow-Up Questions to Ask (Only if Needed):**
+        - "I suggested these based on what’s available, but do you have a preferred brand?"
+        - "Would you like to see more options within a certain price range?"
+        - "Are you looking for something in a different color?"
+        - "Let me know how I can refine my recommendations!"
         """
 
     response = openai.ChatCompletion.create(

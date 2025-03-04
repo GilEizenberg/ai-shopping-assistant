@@ -1,0 +1,19 @@
+# Ignore environment variables
+.env
+
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment
+venv/
+.env/
+
+# Logs
+*.log
+logs/
+
+# Ignore dataset if needed
+# data/dataset.json

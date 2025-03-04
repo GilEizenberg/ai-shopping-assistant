@@ -1,0 +1,82 @@
+[
+    {
+        "name": "Wireless Mouse",
+        "category": "Electronics",
+        "price": 25.99,
+        "brand": "Logitech",
+        "color": "Black",
+        "short_description": "A reliable wireless mouse with ergonomic design."
+    },
+    {
+        "name": "Bluetooth Headphones",
+        "category": "Electronics",
+        "price": 59.99,
+        "brand": "Sony",
+        "color": "Blue",
+        "short_description": "High-quality sound with noise cancellation."
+    },
+    {
+        "name": "Running Shoes",
+        "category": "Footwear",
+        "price": 89.99,
+        "brand": "Nike",
+        "color": "Red",
+        "short_description": "Comfortable and durable running shoes."
+    },
+    {
+        "name": "Smartphone",
+        "category": "Electronics",
+        "price": 699.99,
+        "brand": "Apple",
+        "color": "White",
+        "short_description": "Latest model with advanced features."
+    },
+    {
+        "name": "Backpack",
+        "category": "Accessories",
+        "price": 49.99,
+        "brand": "Adidas",
+        "color": "Black",
+        "short_description": "Spacious and stylish backpack for everyday use."
+    },
+    {
+        "name": "Wrist Watch",
+        "category": "Accessories",
+        "price": 199.99,
+        "brand": "Fossil",
+        "color": "Brown",
+        "short_description": "Elegant wrist watch with leather strap."
+    },
+    {
+        "name": "Gaming Keyboard",
+        "category": "Electronics",
+        "price": 79.99,
+        "brand": "Razer",
+        "color": "Black",
+        "short_description": "Mechanical keyboard with RGB lighting."
+    },
+    {
+        "name": "Sunglasses",
+        "category": "Accessories",
+        "price": 129.99,
+        "brand": "Ray Ban",
+        "color": "Black",
+        "short_description": "Stylish sunglasses with UV protection."
+    },
+    {
+        "name": "Coffee Maker",
+        "category": "Home Appliances",
+        "price": 99.99,
+        "brand": "Keurig",
+        "color": "Silver",
+        "short_description": "Single serve coffee maker with multiple brew sizes."
+    },
+    {
+        "name": "Yoga Mat",
+        "category": "Fitness",
+        "price": 29.99,
+        "brand": "Manduka",
+        "color": "Purple",
+        "short_description": "Eco-friendly yoga mat with superior grip."
+    }
+]

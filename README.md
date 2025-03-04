@@ -179,7 +179,7 @@ project-root/
 
 ## 🛠️ Troubleshooting
 
-### 1️. OpenAI API Key Error
+### 1. OpenAI API Key Error
 
 - Ensure you have added OPENAI_API_KEY in .env
 - If using Windows, run:

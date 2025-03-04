@@ -92,7 +92,7 @@ App will be available at: http://localhost:8501
 
 ### Base URL: http://127.0.0.1:8000
 
-### 1️. Send a Chat Message & Get AI Response
+### 1. Send a Chat Message & Get AI Response
 
     Method: POST
     Endpoint: /chat
